@@ -77,8 +77,6 @@ for line in range(int(length)):
 print ('Done!')
 if (hash_error == 0):
 	print ('No errors occured!')
-elif (version != default_version):
-	print ('%s hashed files were not found! This is a common problem when dehashing from older index files.' % hash_error)
 else:
-	print ('%s hashed files were not found! The default index file used by this program is likely outdated, please specify the index file from the latest version as an argument.' % hash_error)
+	print ('%s hashed files were not found! Please launch the version from the index file used (the default index file used is from version %s).' % (hash_error,default_version))
 index.close()
