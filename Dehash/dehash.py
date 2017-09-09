@@ -78,5 +78,9 @@ print ('Done!')
 if (hash_error == 0):
 	print ('No errors occured!')
 else:
-	print ('%s hashed files were not found! Please launch the version from the index file used (the default index file used is from version %s).' % (hash_error,default_version))
+	error = 'Error: %s hashed files were not found! Please launch the version from the index file used (the default index file used is from version %s).' % (hash_error,default_version)
+	os.chdir(curr_path)
+	log = open('error_log.txt','w')
+	log.write(error)
+	print (error)
 index.close()
