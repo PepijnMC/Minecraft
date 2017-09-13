@@ -1,9 +1,27 @@
 import os
+import sys
 
 files = os.listdir()
 test = files[0:10]
 textures = {}
 unique_textures = []
+
+default_limit = 0
+
+if (len(sys.argv) > 1):
+	arg = sys.argv[1]
+	try:
+		limit = int(arg)
+	except ValueError:
+		error = 'Error: Limit must be an integer.'
+		print (error)
+		log = open('error_log.txt','w')
+		log.write(error)
+		log.close()
+		sys.exit()
+else:
+	limit = default_limit
+
 for json in files:
 	if ('.json' in json):
 		file = open(json,'r')
@@ -26,11 +44,11 @@ for json in files:
 
 		file.close()
 
-f = open('_textures.txt','w')
+f = open('_textures_%s.txt' % (limit),'w')
 for texturefile in textures:
 	count = len(textures[texturefile])
-	if (count > 1):
-		f.write('%s: [ ' % (texturefile))
+	if (count > limit):
+		f.write('%s (%s): [ ' % (texturefile,count))
 		for jsonfile in textures[texturefile]:
 			f.write('%s ' % (jsonfile))
 		f.write(']\n')
