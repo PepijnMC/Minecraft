@@ -5,19 +5,20 @@ files = os.listdir()
 test = files[0:10]
 textures = {}
 unique_textures = []
-
 default_limit = 0
+
+def error_handler(error):
+	print (error)
+	log = open('_error_log.txt','w')
+	log.write(error)
+	log.close()
 
 if (len(sys.argv) > 1):
 	arg = sys.argv[1]
 	try:
 		limit = int(arg)
 	except ValueError:
-		error = 'Error: Limit must be an integer.'
-		print (error)
-		log = open('error_log.txt','w')
-		log.write(error)
-		log.close()
+		error_handler('Error: Limit must be an integer.')
 		sys.exit()
 else:
 	limit = default_limit
