@@ -3,15 +3,22 @@ import os
 import os.path
 from shutil import copyfile
 
+curr_path = os.getcwd()
+hash_error = 0
+default_version = '1.12'
+
 def file_length(file):
     with open(file) as f:
         for i, l in enumerate(f):
             pass
     return i + 1
 
-curr_path = os.getcwd()
-hash_error = 0
-default_version = '1.12'
+def error_handler(error):
+	print (error)
+	os.chdir(curr_path)
+	log = open('error_log.txt','w')
+	log.write(error)
+	log.close()
 
 os.chdir('indexes')
 if (len(sys.argv) > 1):
@@ -25,7 +32,7 @@ if (len(sys.argv) > 1):
 	if (os.path.isfile('%s' % indexversion)):
 		index = open('%s' % (indexversion),'r')
 	else:
-		print ('\nInvalid index file!')
+		error_handler('Error: Invalid index file!')
 		sys.exit()
 	length = file_length('%s' % (indexversion)) / 4
 else:
@@ -75,12 +82,6 @@ for line in range(int(length)):
 			hash_error += 1
 
 print ('Done!')
-if (hash_error == 0):
-	print ('No errors occured!')
-else:
-	error = 'Error: %s hashed files were not found! Please launch the version from the index file used (the default index file used is from version %s).' % (hash_error,default_version)
-	os.chdir(curr_path)
-	log = open('error_log.txt','w')
-	log.write(error)
-	print (error)
+if (hash_error > 1):
+	error_handler('Error: %s hashed files were not found! Please launch the Minecraft version from the index file used (the default index file used is from version %s).' % (hash_error,default_version))
 index.close()
