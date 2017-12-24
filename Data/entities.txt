@@ -1,5 +1,5 @@
-minecraft:(lightning_bolt)
-minecraft:(player)
+(minecraft:lightning_bolt)
+(minecraft:player)
 minecraft:area_effect_cloud
 minecraft:armor_stand
 minecraft:arrow
