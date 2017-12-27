@@ -454,6 +454,7 @@ minecraft:stone_hoe
 minecraft:iron_hoe
 minecraft:diamond_hoe
 minecraft:golden_hoe
+minecraft:wheat_seeds
 minecraft:wheat
 minecraft:bread
 minecraft:leather_helmet
@@ -551,8 +552,8 @@ minecraft:cookie
 minecraft:filled_map
 minecraft:shears
 minecraft:melon
-minecraft:pumpkin_stem
-minecraft:melon_stem
+minecraft:pumpkin_seeds
+minecraft:melon_seeds
 minecraft:beef
 minecraft:cooked_beef
 minecraft:chicken
@@ -681,7 +682,7 @@ minecraft:end_crystal
 minecraft:chorus_fruit
 minecraft:chorus_fruit_popped
 minecraft:beetroot
-minecraft:beetroots
+minecraft:beetroot_seeds
 minecraft:beetroot_soup
 minecraft:dragon_breath
 minecraft:splash_potion
