@@ -409,7 +409,7 @@ minecraft:oak_door
 minecraft:spruce_door
 minecraft:birch_door
 minecraft:jungle_door
-minecraft:acacwia_door
+minecraft:acacia_door
 minecraft:dark_oak_door
 minecraft:repeater
 minecraft:comparator
@@ -489,7 +489,7 @@ minecraft:water_bucket
 minecraft:lava_bucket
 minecraft:minecart
 minecraft:saddle
-minecraft:redstone_wire
+minecraft:redstone
 minecraft:snowball
 minecraft:oak_boat
 minecraft:leather
