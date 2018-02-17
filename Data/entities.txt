@@ -1,5 +1,3 @@
-(minecraft:lightning_bolt)
-(minecraft:player)
 minecraft:area_effect_cloud
 minecraft:armor_stand
 minecraft:arrow
@@ -27,6 +25,7 @@ minecraft:eye_of_ender_signal
 minecraft:falling_block
 minecraft:fireball
 minecraft:fireworks_rocket
+minecraft:fishing_bobber
 minecraft:furnace_minecart
 minecraft:ghast
 minecraft:giant
@@ -38,6 +37,7 @@ minecraft:illusion_illager
 minecraft:item
 minecraft:item_frame
 minecraft:leash_knot
+minecraft:lightning_bolt
 minecraft:llama
 minecraft:llama_spit
 minecraft:magma_cube
@@ -49,6 +49,7 @@ minecraft:painting
 minecraft:parrot
 minecraft:phantom
 minecraft:pig
+minecraft:player
 minecraft:polar_bear
 minecraft:potion
 minecraft:rabbit
