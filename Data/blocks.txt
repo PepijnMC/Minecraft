@@ -1,4 +1,3 @@
-minecraft:air
 minecraft:stone
 minecraft:granite
 minecraft:polished_granite
@@ -40,6 +39,12 @@ minecraft:birch_log
 minecraft:jungle_log
 minecraft:acacia_log
 minecraft:dark_oak_log
+minecraft:stripped_spruce_log
+minecraft:stripped_birch_log
+minecraft:stripped_jungle_log
+minecraft:stripped_acacia_log
+minecraft:stripped_dark_oak_log
+minecraft:stripped_oak_log
 minecraft:oak_bark
 minecraft:spruce_bark
 minecraft:birch_bark
@@ -85,6 +90,8 @@ minecraft:cobweb
 minecraft:grass
 minecraft:fern
 minecraft:dead_bush
+minecraft:sea_grass
+minecraft:tall_sea_grass
 minecraft:piston
 minecraft:piston_head
 minecraft:white_wool
@@ -345,6 +352,12 @@ minecraft:iron_trapdoor
 minecraft:prismarine
 minecraft:prismarine_bricks
 minecraft:dark_prismarine
+minecraft:prismarine_stairs
+minecraft:prismarine_bricks_stairs
+minecraft:dark_prismarine_stairs
+minecraft:prismarine_slab
+minecraft:prismarine_bricks_slab
+minecraft:dark_prismarine_slab
 minecraft:sea_lantern
 minecraft:hay_block
 minecraft:white_carpet
@@ -526,4 +539,11 @@ minecraft:brown_concrete_powder
 minecraft:green_concrete_powder
 minecraft:red_concrete_powder
 minecraft:black_concrete_powder
+minecraft:kelp
+minecraft:kelp_top
+minecraft:dried_kelp_block
+minecraft:turtle_egg
+minecraft:void_air
+minecraft:cave_air
+minecraft:bubble_column
 minecraft:structure_block
