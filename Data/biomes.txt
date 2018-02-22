@@ -1,0 +1,73 @@
+ocean - Ocean
+plains - Plains
+desert - Desert
+extreme_hills - Extreme Hills
+forest - Forest
+taiga - Taiga
+swampland - Swampland
+river - River
+hell - Hell
+sky - The End
+frozen_ocean - FrozenOcean
+frozen_river - FrozenRiver
+ice_flats - Ice Plains
+ice_mountains - Ice Mountains
+mushroom_island - MushroomIsland
+mushroom_island_shore - MushroomIslandShore
+beaches - Beach
+desert_hills - DesertHills
+forest_hills - ForestHills
+taiga_hills - TaigaHills
+smaller_extreme_hills - Extreme Hills Edge
+jungle - Jungle
+jungle_hills - JungleHills
+jungle_edge - JungleEdge
+deep_ocean - Deep Ocean
+stone_beach - Stone Beach
+cold_beach - Cold Beach
+birch_forest - Birch Forest
+birch_forest_hills - Birch Forest Hills
+roofed_forest - Roofed Forest
+taiga_cold - Cold Taiga
+taiga_cold_hills - Cold Taiga Hills
+redwood_taiga - Mega Taiga
+redwood_taiga_hills - Mega Taiga Hills
+extreme_hills_with_trees - Extreme Hills+
+savanna - Savanna
+savanna_rock - Savanna Plateau
+mesa - Mesa
+mesa_rock - Mesa Plateau F
+mesa_clear_rock - Mesa Plateau
+sky_island_low - The End - Floating islands
+sky_island_medium - The End - Medium island
+sky_island_high - The End - High island
+sky_island_barren - The End - Barren island
+warm_ocean - Warm Ocean
+lukewarm_ocean - Lukewarm Ocean
+cold_ocean - Cold Ocean
+warm_deep_ocean - Warm Deep Ocean
+lukewarm_deep_ocean - Deep Lukewarm Ocean
+cold_deep_ocean - Deep Cold Ocean
+frozen_deep_ocean - Deep Frozen Ocean
+void - The Void
+mutated_plains - Sunflower Plains
+mutated_desert - Desert M
+mutated_extreme_hills - Extreme Hills M
+mutated_forest - Flower Forest
+mutated_taiga - Taiga M
+mutated_swampland - Swampland M
+mutated_ice_flats - Ice Plains Spikes
+mutated_jungle - Jungle M
+mutated_jungle_edge - JungleEdge M
+mutated_birch_forest - Birch Forest M
+mutated_birch_forest_hills - Birch Forest Hills M
+mutated_roofed_forest - Roofed Forest M
+mutated_taiga_cold - Cold Taiga M
+mutated_redwood_taiga - Mega Spruce Taiga
+mutated_redwood_taiga_hills - Redwood Taiga Hills M
+mutated_extreme_hills_with_trees - Extreme Hills+ M
+mutated_savanna - Savanna M
+mutated_savanna_rock - Savanna Plateau M
+mutated_mesa - Mesa (Bryce)
+mutated_mesa_rock - Mesa Plateau F M
+mutated_mesa_clear_rock - Mesa Plateau M
