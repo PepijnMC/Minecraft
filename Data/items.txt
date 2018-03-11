@@ -1,6 +1,4 @@
-NOT UPDATED
-
-(minecraft:air)
+minecraft:air
 minecraft:stone
 minecraft:granite
 minecraft:polished_granite
@@ -38,6 +36,12 @@ minecraft:birch_log
 minecraft:jungle_log
 minecraft:acacia_log
 minecraft:dark_oak_log
+minecraft:stripped_oak_log
+minecraft:stripped_spruce_log
+minecraft:stripped_birch_log
+minecraft:stripped_jungle_log
+minecraft:stripped_acacia_log
+minecraft:stripped_dark_oak_log
 minecraft:oak_bark
 minecraft:spruce_bark
 minecraft:birch_bark
@@ -67,6 +71,7 @@ minecraft:cobweb
 minecraft:grass
 minecraft:fern
 minecraft:dead_bush
+minecraft:sea_grass
 minecraft:piston
 minecraft:white_wool
 minecraft:orange_wool
@@ -114,6 +119,9 @@ minecraft:nether_brick_slab
 minecraft:quartz_slab
 minecraft:red_sandstone_slab
 minecraft:purpur_slab
+minecraft:prismarine_slab
+minecraft:prismarine_bricks_slab
+minecraft:dark_prismarine_slab
 minecraft:smooth_quartz
 minecraft:smooth_red_sandstone
 minecraft:smooth_sandstone
@@ -329,6 +337,9 @@ minecraft:black_stained_glass_pane
 minecraft:prismarine
 minecraft:prismarine_bricks
 minecraft:dark_prismarine
+minecraft:prismarine_stairs
+minecraft:prismarine_bricks_stairs
+minecraft:dark_prismarine_stairs
 minecraft:sea_lantern
 minecraft:red_sandstone
 minecraft:chiseled_red_sandstone
@@ -342,6 +353,7 @@ minecraft:red_nether_bricks
 minecraft:bone_block
 minecraft:structure_void
 minecraft:observer
+minecraft:shulker_box
 minecraft:white_shulker_box
 minecraft:orange_shulker_box
 minecraft:magenta_shulker_box
@@ -406,6 +418,22 @@ minecraft:brown_concrete_powder
 minecraft:green_concrete_powder
 minecraft:red_concrete_powder
 minecraft:black_concrete_powder
+minecraft:turtle_egg
+minecraft:blue_dead_coral
+minecraft:pink_dead_coral
+minecraft:purple_dead_coral
+minecraft:red_dead_coral
+minecraft:yellow_dead_coral
+minecraft:blue_coral
+minecraft:pink_coral
+minecraft:purple_coral
+minecraft:red_coral
+minecraft:yellow_coral
+minecraft:blue_coral_plant
+minecraft:pink_coral_plant
+minecraft:purple_coral_plant
+minecraft:red_coral_plant
+minecraft:yellow_coral_plant
 minecraft:iron_door
 minecraft:oak_door
 minecraft:spruce_door
@@ -416,6 +444,8 @@ minecraft:dark_oak_door
 minecraft:repeater
 minecraft:comparator
 minecraft:structure_block
+minecraft:turtle_helmet
+minecraft:scute
 minecraft:iron_shovel
 minecraft:iron_pickaxe
 minecraft:iron_axe
@@ -486,6 +516,7 @@ minecraft:painting
 minecraft:golden_apple
 minecraft:enchanted_golden_apple
 minecraft:sign
+minecraft:air
 minecraft:bucket
 minecraft:water_bucket
 minecraft:lava_bucket
@@ -496,9 +527,15 @@ minecraft:snowball
 minecraft:oak_boat
 minecraft:leather
 minecraft:milk_bucket
+minecraft:pufferfish_bucket
+minecraft:salmon_bucket
+minecraft:cod_bucket
+minecraft:clownfish_bucket
 minecraft:brick
 minecraft:clay_ball
 minecraft:sugar_cane
+minecraft:kelp_top
+minecraft:dried_kelp_block
 minecraft:paper
 minecraft:book
 minecraft:slime_ball
@@ -554,6 +591,7 @@ minecraft:cookie
 minecraft:filled_map
 minecraft:shears
 minecraft:melon
+minecraft:dried_kelp
 minecraft:pumpkin_seeds
 minecraft:melon_seeds
 minecraft:beef
@@ -567,6 +605,7 @@ minecraft:ghast_tear
 minecraft:gold_nugget
 minecraft:nether_wart
 minecraft:potion
+minecraft:coarse_dirt
 minecraft:glass_bottle
 minecraft:spider_eye
 minecraft:fermented_spider_eye
@@ -598,6 +637,7 @@ minecraft:mule_spawn_egg
 minecraft:ocelot_spawn_egg
 minecraft:parrot_spawn_egg
 minecraft:pig_spawn_egg
+minecraft:phantom_spawn_egg
 minecraft:polar_bear_spawn_egg
 minecraft:rabbit_spawn_egg
 minecraft:sheep_spawn_egg
@@ -609,6 +649,7 @@ minecraft:slime_spawn_egg
 minecraft:spider_spawn_egg
 minecraft:squid_spawn_egg
 minecraft:stray_spawn_egg
+minecraft:turtle_spawn_egg
 minecraft:vex_spawn_egg
 minecraft:villager_spawn_egg
 minecraft:vindication_illager_spawn_egg
@@ -619,6 +660,10 @@ minecraft:zombie_spawn_egg
 minecraft:zombie_horse_spawn_egg
 minecraft:zombie_pigman_spawn_egg
 minecraft:zombie_villager_spawn_egg
+minecraft:puffer_fish_spawn_egg
+minecraft:salmon_mob_spawn_egg
+minecraft:cod_mob_spawn_egg
+minecraft:tropical_fish_spawn_egg
 minecraft:experience_bottle
 minecraft:fire_charge
 minecraft:writable_book
@@ -715,3 +760,4 @@ minecraft:music_disc_strad
 minecraft:music_disc_ward
 minecraft:music_disc_11
 minecraft:music_disc_wait
+minecraft:trident
