@@ -68,6 +68,7 @@ minecraft:spectral_arrow
 minecraft:spider
 minecraft:squid
 minecraft:stray
+minecraft:tropical_fish
 minecraft:turtle
 minecraft:egg
 minecraft:ender_pearl
