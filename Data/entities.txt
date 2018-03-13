@@ -11,6 +11,7 @@ minecraft:cow
 minecraft:creeper
 minecraft:donkey
 minecraft:dragon_fireball
+minecraft:drowned
 minecraft:elder_guardian
 minecraft:ender_crystal
 minecraft:ender_dragon
