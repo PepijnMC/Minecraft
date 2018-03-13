@@ -434,6 +434,11 @@ minecraft:pink_coral_plant
 minecraft:purple_coral_plant
 minecraft:red_coral_plant
 minecraft:yellow_coral_plant
+minecraft:blue_coral_fan
+minecraft:pink_coral_fan
+minecraft:purple_coral_fan
+minecraft:red_coral_fan
+minecraft:yellow_coral_fan
 minecraft:iron_door
 minecraft:oak_door
 minecraft:spruce_door
@@ -605,7 +610,6 @@ minecraft:ghast_tear
 minecraft:gold_nugget
 minecraft:nether_wart
 minecraft:potion
-minecraft:coarse_dirt
 minecraft:glass_bottle
 minecraft:spider_eye
 minecraft:fermented_spider_eye
@@ -622,6 +626,7 @@ minecraft:chicken_spawn_egg
 minecraft:cow_spawn_egg
 minecraft:creeper_spawn_egg
 minecraft:donkey_spawn_egg
+minecraft:drowned_spawn_egg
 minecraft:elder_guardian_spawn_egg
 minecraft:enderman_spawn_egg
 minecraft:endermite_spawn_egg
