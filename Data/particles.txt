@@ -3,7 +3,6 @@ minecraft:angry_villager
 minecraft:barrier
 minecraft:block
 minecraft:bubble
-minecraft:bubble_column_up
 minecraft:cloud
 minecraft:crit
 minecraft:damage_indicator
@@ -38,6 +37,7 @@ minecraft:portal
 minecraft:rain
 minecraft:smoke
 minecraft:spit
+minecraft:squid_ink
 minecraft:sweep_attack
 minecraft:totem_of_undying
 minecraft:underwater
@@ -45,4 +45,4 @@ minecraft:splash
 minecraft:witch
 minecraft:bubble_pop
 minecraft:current_down
-minecraft:squid_ink
+minecraft:bubble_column_up
