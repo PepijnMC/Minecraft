@@ -372,6 +372,7 @@ minecraft:black_carpet
 minecraft:terracotta
 minecraft:coal_block
 minecraft:packed_ice
+minecraft:blue_ice
 minecraft:acacia_stairs
 minecraft:dark_oak_stairs
 minecraft:slime_block
@@ -567,4 +568,5 @@ minecraft:bubble_coral_fan
 minecraft:fire_coral_fan
 minecraft:horn_coral_fan
 minecraft:sea_pickle
+minecraft:conduit
 minecraft:structure_block
