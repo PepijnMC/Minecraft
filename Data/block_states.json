@@ -3528,6 +3528,7 @@
     "minecraft:terracotta": {},
     "minecraft:coal_block": {},
     "minecraft:packed_ice": {},
+    "minecraft:blue_ice": {},
     "minecraft:acacia_stairs": {
         "states": {
             "half": [
@@ -5343,6 +5344,7 @@
             ]
         }
     },
+    "minecraft:conduit": {},
     "minecraft:structure_block": {
         "states": {
             "mode": [
