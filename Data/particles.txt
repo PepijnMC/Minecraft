@@ -46,3 +46,4 @@ minecraft:witch
 minecraft:bubble_pop
 minecraft:current_down
 minecraft:bubble_column_up
+minecraft:nautilus
