@@ -10,6 +10,7 @@ minecraft:cod_mob
 minecraft:cow
 minecraft:creeper
 minecraft:donkey
+minecraft:dolphin
 minecraft:dragon_fireball
 minecraft:drowned
 minecraft:elder_guardian
