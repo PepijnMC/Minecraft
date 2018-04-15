@@ -440,6 +440,8 @@ minecraft:brain_coral_fan
 minecraft:bubble_coral_fan
 minecraft:fire_coral_fan
 minecraft:horn_coral_fan
+minecraft:blue_ice
+minecraft:conduit
 minecraft:iron_door
 minecraft:oak_door
 minecraft:spruce_door
@@ -625,6 +627,7 @@ minecraft:cave_spider_spawn_egg
 minecraft:chicken_spawn_egg
 minecraft:cow_spawn_egg
 minecraft:creeper_spawn_egg
+minecraft:dolphin_spawn_egg
 minecraft:donkey_spawn_egg
 minecraft:drowned_spawn_egg
 minecraft:elder_guardian_spawn_egg
@@ -767,3 +770,5 @@ minecraft:music_disc_11
 minecraft:music_disc_wait
 minecraft:trident
 minecraft:phantom_membrane
+minecraft:nautilus_shell
+minecraft:heart_of_the_sea
