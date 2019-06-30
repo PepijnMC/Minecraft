@@ -8,7 +8,10 @@ minecraft:crit
 minecraft:damage_indicator
 minecraft:dragon_breath
 minecraft:dripping_lava
+minecraft:falling_lava
+minecraft:landing_lava
 minecraft:dripping_water
+minecraft:falling_water
 minecraft:dust
 minecraft:effect
 minecraft:elder_guardian
@@ -22,7 +25,9 @@ minecraft:falling_dust
 minecraft:firework
 minecraft:fishing
 minecraft:flame
+minecraft:flash
 minecraft:happy_villager
+minecraft:composter
 minecraft:heart
 minecraft:instant_effect
 minecraft:item
@@ -36,6 +41,7 @@ minecraft:poof
 minecraft:portal
 minecraft:rain
 minecraft:smoke
+minecraft:sneeze
 minecraft:spit
 minecraft:squid_ink
 minecraft:sweep_attack
@@ -47,3 +53,6 @@ minecraft:bubble_pop
 minecraft:current_down
 minecraft:bubble_column_up
 minecraft:nautilus
+minecraft:dolphin
+minecraft:campfire_cosy_smoke
+minecraft:campfire_signal_smoke
